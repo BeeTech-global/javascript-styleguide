@@ -1,0 +1,7 @@
+# Set Git ignored files/folders
+
+node_modules
+
+# Let lock files for apps
+yarn.lock
+package-lock.json
