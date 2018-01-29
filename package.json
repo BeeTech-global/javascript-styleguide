@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-beetech",
+  "version": "0.1.0",
+  "description": "Official lint config from Beetech.global",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BeeTech-global/eslint-config-beetech.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "BeeTech <it@beetech.global>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeeTech-global/eslint-config-beetech/issues"
+  },
+  "homepage": "https://github.com/BeeTech-global/eslint-config-beetech#readme"
+}
