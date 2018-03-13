@@ -1,0 +1,21 @@
+{
+  "name": "beetech-javascript-styleguide",
+  "version": "0.2.0",
+  "description": "BeeTech's living standards for javascript coding style",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeeTech-global/javascript-styleguide.git"
+  },
+  "author": "BeeTech <it@beetech.global>",
+  "contributors": [
+    "Lourenzo Ferreira <lourenzo@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeeTech-global/javascript-styleguide/issues"
+  },
+  "homepage": "https://github.com/BeeTech-global/javascript-styleguide#readme"
+}
