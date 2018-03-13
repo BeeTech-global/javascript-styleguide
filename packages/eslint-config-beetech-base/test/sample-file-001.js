@@ -8,7 +8,17 @@ const a = (x) => {
   return y;
 };
 
+const arr = [
+  1,
+  2,
+  3,
+];
+
+for (const item of arr) {
+  console.log(item) // eslint-disable-line
+}
+
 module.exports = {
   a,
-  someOperation
+  someOperation,
 };
