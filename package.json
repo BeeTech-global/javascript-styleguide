@@ -1,34 +1,21 @@
 {
-  "name": "eslint-config-beetech",
-  "version": "0.1.0",
-  "description": "Official lint config from Beetech.global",
-  "main": "index.js",
+  "name": "beetech-javascript-styleguide",
+  "version": "0.2.0",
+  "description": "BeeTech's living standards for javascript coding style",
   "scripts": {
-    "test": "eslint test/sample-file-001.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/BeeTech-global/eslint-config-beetech.git"
+    "url": "git+https://github.com/BeeTech-global/javascript-styleguide.git"
   },
-  "keywords": [
-    "eslint"
-  ],
   "author": "BeeTech <it@beetech.global>",
   "contributors": [
     "Lourenzo Ferreira <lourenzo@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BeeTech-global/eslint-config-beetech/issues"
+    "url": "https://github.com/BeeTech-global/javascript-styleguide/issues"
   },
-  "homepage": "https://github.com/BeeTech-global/eslint-config-beetech#readme",
-  "dependencies": {
-    "eslint-config-airbnb": "^16.1.0",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.6.1"
-  },
-  "devDependencies": {
-    "eslint": "^4.16.0"
-  }
+  "homepage": "https://github.com/BeeTech-global/javascript-styleguide#readme"
 }

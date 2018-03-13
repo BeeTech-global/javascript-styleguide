@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-beetech",
+  "version": "0.1.0",
+  "description": "Official lint config from Beetech.global",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint test/sample-file-001.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BeeTech-global/eslint-config-beetech.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "BeeTech <it@beetech.global>",
+  "contributors": [
+    "Lourenzo Ferreira <lourenzo@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeeTech-global/eslint-config-beetech/issues"
+  },
+  "homepage": "https://github.com/BeeTech-global/eslint-config-beetech#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint": "^4.18.2"
+  }
+}
