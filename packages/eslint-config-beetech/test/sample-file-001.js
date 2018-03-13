@@ -10,5 +10,5 @@ const a = (x) => {
 
 module.exports = {
   a,
-  someOperation
+  someOperation,
 };
