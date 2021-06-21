@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/BeeTech-global/eslint-config-beetech#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-airbnb": "^18.0.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.6.1"
